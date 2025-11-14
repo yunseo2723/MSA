@@ -6,18 +6,6 @@
 
 # 👁‍🗨 사건, 오늘
 
-
-
-## 🧑‍🤝‍🧑 팀 구성원
-| <img src="https://github.com/user-attachments/assets/e7050ae6-196e-4f9c-84d6-56dd29f9ea65" width="140" /> | <img src="https://github.com/user-attachments/assets/f36bea8a-7664-4999-896c-75aad401f9d7" width="140" /> |
-| :-----------------: | :-----------------: |
-| **김도현**       | **하윤서**       |
-| 백엔드 메인   | 백엔드 서브    |
-| 서경대학교     | 서경대학교    |
-| [@kdhdd](https://github.com/kdhdd) | [@yunseo2723](https://github.com/yunseo2723) |
-
----
-
 <br>
 
 ## 🔗 Frontend Repository
